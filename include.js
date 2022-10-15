@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+   {
+    artName: 'LGBTQ flag change',
+    pageLink: './Art/blanka0725/index.html',
+    imageLink: './Art/blanka0725/animationNation.gif',
+    author: 'blanka0725',
+    githubLink: 'https://github.com/blanka0725'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+

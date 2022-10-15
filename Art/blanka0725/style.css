@@ -1,0 +1,72 @@
+@keyframes red {
+  from {background-color: red;}
+  to {background-color: deeppink;}
+}
+@keyframes orange {
+  from {background-color: orange;}
+  to {background-color: deeppink;}
+}
+@keyframes yellow {
+  from {background-color: yellow;}
+  to {background-color: darkviolet;}
+}
+@keyframes green {
+  from {background-color: green;}
+  to {background-color: darkviolet;}
+}
+@keyframes blue {
+  from {background-color: blue;}
+  to {background-color: darkblue;}
+}
+@keyframes violet {
+  from {background-color: blueviolet ;}
+  to {background-color: darkblue;}
+}
+#red{
+  width: 1000px;
+  height: 125px;
+  background-color: red;
+  animation-name: red;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+#orange{
+  width: 1000px;
+  height: 125px;
+  background-color: orange;
+  animation-name: orange;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+#yellow{
+  width: 1000px;
+  height: 125px;
+  background-color: yellow;
+  animation-name: yellow;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+#green{
+  width: 1000px;
+  height: 125px;
+  background-color: green;
+  animation-name: green;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+#blue{
+  width: 1000px;
+  height: 125px;
+  background-color: blue;
+  animation-name: blue;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+#violet{
+  width: 1000px;
+  height: 125px;
+  background-color: violet;
+  animation-name: violet;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
